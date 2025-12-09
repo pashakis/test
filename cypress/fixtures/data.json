@@ -1,0 +1,17 @@
+{
+    "users": {
+      "standard_user": "standard_user",
+      "locked_out_user": "locked_out_user",
+      "password": "secret_sauce",
+      "wrong_password": "WrongPassword123!"
+    },
+    "products": {
+      "bolt_tshirt": "Sauce Labs Bolt T-Shirt",
+      "backpack": "Sauce Labs Backpack"
+    },
+    "checkout": {
+      "firstName": "John",
+      "lastName": "Doe",
+      "postalCode": "12345"
+    }
+  }

@@ -1,0 +1,19 @@
+{
+    "pet1": {
+      "id": 12345,
+      "category": { "id": 1, "name": "Dogs" },
+      "name": "Fluffy",
+      "photoUrls": ["https://example.com/photo.jpg"],
+      "tags": [{ "id": 1, "name": "cute" }],
+      "status": "available"
+    },
+    "petUpdate": {
+      "id": 12345,
+      "category": { "id": 1, "name": "Dogs" },
+      "name": "FluffyUpdated",
+      "photoUrls": ["https://example.com/photo_updated.jpg"],
+      "tags": [{ "id": 1, "name": "cute" }],
+      "status": "sold"
+    }
+  }
+  
